@@ -1,0 +1,7 @@
+#Mon Oct 10 16:40:42 EEST 2016
+base.0=C\:\\Workspace\\Android\\TaskHistory\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_27e070c05463c2418ac47ce7e5a7e12736aec235
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Workspace\\Android\\TaskHistory\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e0a4c941938c7b71a0657dbcd2a950874664ec8d\\classes.dex
+base.1=C\:\\Workspace\\Android\\TaskHistory\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e0a4c941938c7b71a0657dbcd2a950874664ec8d
+file.0=C\:\\Workspace\\Android\\TaskHistory\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_27e070c05463c2418ac47ce7e5a7e12736aec235\\classes.dex

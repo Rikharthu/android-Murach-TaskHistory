@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Workspace\\Android\\TaskHistory\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_task.xml",
+        "source": "C:\\Workspace\\Android\\TaskHistory\\app\\src\\main\\res\\layout\\listview_task.xml"
+    },
+    {
+        "merged": "C:\\Workspace\\Android\\TaskHistory\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_task_history.xml",
+        "source": "C:\\Workspace\\Android\\TaskHistory\\app\\src\\main\\res\\layout\\activity_task_history.xml"
+    }
+]
